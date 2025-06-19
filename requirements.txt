@@ -1,0 +1,12 @@
+langchain_community
+ollama==0.5.1
+streamlit
+fastapi
+langchain_groq
+langserve
+uvicorn
+langchain_community
+load-dotenv==0.1.0
+pathlib
+langchain
+bs4

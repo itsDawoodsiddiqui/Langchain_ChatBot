@@ -1,5 +1,6 @@
 # Ignore Python virtual environment
 venv/
+virtual3.12.5
 
 # Ignore Python bytecode
 __pycache__/
