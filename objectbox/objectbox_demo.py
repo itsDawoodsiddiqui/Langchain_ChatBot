@@ -134,6 +134,7 @@ if input_prompt:
 
 # Embed PDF button
 if st.button("Documents Embedding"):
+    
     try:
         vector_embedding()
         st.success("✅ ObjectBox Vectorstore is ready.")
